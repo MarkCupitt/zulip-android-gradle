@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/eric/Downloads/zulip-android/ZulipAndroid/src/main/res/values-v11/themes.xml -->
+    <eat-comment/>
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+    </style>
+</resources>

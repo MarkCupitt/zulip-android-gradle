@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/eric/Downloads/zulip-android/ZulipAndroid/libs/crashlytics.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8189e9eef2f07fae743e05d7fe7e69daebe98d1">
+        <dex dex="/Users/eric/Downloads/zulip-android/ZulipAndroid/build/intermediates/pre-dexed/debug/crashlytics-ce0c7cbbcc11ab2bdaf7dc483c97fabc5fb88ceb.jar" />
+    </item>
+    <item
+        jar="/Users/eric/Downloads/zulip-android/ZulipAndroid/libs/commons-lang-2.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="942df78c50872df05880905775f24fc3bb5587d8">
+        <dex dex="/Users/eric/Downloads/zulip-android/ZulipAndroid/build/intermediates/pre-dexed/debug/commons-lang-2.6-4c65df4d398428a0628eecfbca0f91c075e18895.jar" />
+    </item>
+    <item
+        jar="/Users/eric/Downloads/zulip-android/ZulipAndroid/build/intermediates/exploded-aar/zulip-android/googleplayservices_lib/unspecified/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cebe8e4a3a469c4623addcca1dc571407ff3a08e">
+        <dex dex="/Users/eric/Downloads/zulip-android/ZulipAndroid/build/intermediates/pre-dexed/debug/google-play-services-15564d0afaa2dd179648c8d983adeb3968c7ecb6.jar" />
+    </item>
+    <item
+        jar="/Users/eric/Downloads/zulip-android/ZulipAndroid/libs/android-support-v13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9ca535b56d84d8aca3e669510e0de03387f6e07e">
+        <dex dex="/Users/eric/Downloads/zulip-android/ZulipAndroid/build/intermediates/pre-dexed/debug/android-support-v13-854b5473016c098c30603aaceed0f2d85d2633ce.jar" />
+    </item>
+    <item
+        jar="/Users/eric/Downloads/zulip-android/ZulipAndroid/build/intermediates/exploded-aar/zulip-android/googleplayservices_lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ae717a98a230f3e8feb1923da876808fc2d5e806">
+        <dex dex="/Users/eric/Downloads/zulip-android/ZulipAndroid/build/intermediates/pre-dexed/debug/classes-79c8cb402aaa5f469f3bc1d395fa7d33cc437100.jar" />
+    </item>
+    <item
+        jar="/Users/eric/Downloads/zulip-android/ZulipAndroid/libs/tagsoup-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5584627487e984c03456266d3f8802eb85a9ce97">
+        <dex dex="/Users/eric/Downloads/zulip-android/ZulipAndroid/build/intermediates/pre-dexed/debug/tagsoup-1.2.1-59a8b8c3315f6604ee9c348293e9d3206aa1dc95.jar" />
+    </item>
+    <item
+        jar="/Users/eric/Downloads/zulip-android/ZulipAndroid/libs/ormlite-android-4.45.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ff8c21e8d0162333559f35cafd6a2238a33e5ba">
+        <dex dex="/Users/eric/Downloads/zulip-android/ZulipAndroid/build/intermediates/pre-dexed/debug/ormlite-android-4.45-dd4952926f80a91b41429cb24e2769e6ee22af2f.jar" />
+    </item>
+    <item
+        jar="/Users/eric/Downloads/zulip-android/ZulipAndroid/libs/ormlite-core-4.45.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3db7b73aecea723803e10b068777cf09ed42d4be">
+        <dex dex="/Users/eric/Downloads/zulip-android/ZulipAndroid/build/intermediates/pre-dexed/debug/ormlite-core-4.45-9d5facf25d82b92ebf8cadef5c28e9581a19aa54.jar" />
+    </item>
+
+</items>

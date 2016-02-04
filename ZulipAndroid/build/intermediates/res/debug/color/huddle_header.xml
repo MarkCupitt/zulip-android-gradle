@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#333"/>
+</selector><!-- From: file:/Users/eric/Downloads/zulip-android/ZulipAndroid/src/main/res/color/huddle_header.xml -->
